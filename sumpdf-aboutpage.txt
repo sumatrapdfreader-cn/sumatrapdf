@@ -1,22 +1,22 @@
 ﻿AboutInfo [
     [
-		Text = About 
+		Text = 关于sumatrapdf 
 		Url = empty
 		Tooltip = empty
 	]
 	[
-		Text = 官网
+		Text = SumatraPDF Official
 		Url = https://www.sumatrapdfreader.org/
-		Tooltip = sumatrapdf官网
+		Tooltip = https://www.sumatrapdfreader.org/
 	]
 	[
-		Text = 手册
+		Text = SumatraPDF Manual
 		Url = https://www.sumatrapdfreader.org/manual.html
-		Tooltip = sumatrapdf使用手册
+		Tooltip = https://www.sumatrapdfreader.org/manual.html
 	]
 	[
-		Text = 论坛
+		Text = SumatraPDF Forum
 		Url = https://forum.sumatrapdfreader.org/
-		Tooltip = sumatrapdf论坛
+		Tooltip = https://forum.sumatrapdfreader.org/
 	]
 ]
