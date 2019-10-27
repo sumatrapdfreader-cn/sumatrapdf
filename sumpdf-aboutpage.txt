@@ -1,0 +1,22 @@
+﻿AboutInfo [
+    [
+		Text = About 
+		Url = empty
+		Tooltip = empty
+	]
+	[
+		Text = 官网
+		Url = https://www.sumatrapdfreader.org/
+		Tooltip = sumatrapdf官网
+	]
+	[
+		Text = 手册
+		Url = https://www.sumatrapdfreader.org/manual.html
+		Tooltip = sumatrapdf使用手册
+	]
+	[
+		Text = 论坛
+		Url = https://forum.sumatrapdfreader.org/
+		Tooltip = sumatrapdf论坛
+	]
+]
