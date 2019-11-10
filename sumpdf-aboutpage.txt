@@ -1,22 +1,32 @@
 ﻿AboutInfo [
     [
-		Text = 关于sumatrapdf 
+		Text = 更多推荐 
 		Url = empty
 		Tooltip = empty
 	]
 	[
-		Text = SumatraPDF Official
-		Url = https://www.sumatrapdfreader.org/
-		Tooltip = https://www.sumatrapdfreader.org/
+		Text = PDF转换器
+		Url = http://www.679sparkle.com/converter?name=keyword&keyword=sumatra_pdf2word
+		Tooltip = 支持PDF转Word,Excel,Ppt等。支持Word,Excel,Ppt转PDF。支持PDF拆分合并，压缩，加密解密等。
 	]
 	[
-		Text = SumatraPDF Manual
-		Url = https://www.sumatrapdfreader.org/manual.html
-		Tooltip = https://www.sumatrapdfreader.org/manual.html
+		Text = PDF编辑器
+		Url = http://www.679sparkle.com/converter?name=keyword&keyword=sumatra_pdfeditor
+		Tooltip = Word般编辑PDF文件。额外支持增删水印，页码，裁剪页面等操作
 	]
 	[
-		Text = SumatraPDF Forum
-		Url = https://forum.sumatrapdfreader.org/
-		Tooltip = https://forum.sumatrapdfreader.org/
+		Text = OCR图文识别
+		Url = http://www.679sparkle.com/converter?name=keyword&keyword=sumatra_pdfocr
+		Tooltip = 将扫描件或者图片转换为可编辑的Word，Ppt，Excel等格式
 	]
+	[
+		Text = CAD转换器
+		Url = http://www.679sparkle.com/converter?name=keyword&keyword=sumatra_cad
+		Tooltip = PDF与CAD格式互转，CAD版本转换
+	]
+	[
+		Text = 图片压缩
+		Url = http://www.679sparkle.com/converter?name=keyword&keyword=sumatra_compressor
+		Tooltip = 图片压缩与图片格式转换
+	]	
 ]
